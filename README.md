@@ -1,4 +1,4 @@
 # Aritra-01-001-1101
-My first git repository
+First git repository 
 <br>
 Author - Aritra Kundu
